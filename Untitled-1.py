@@ -11,3 +11,6 @@ if __name__ == '__main__':
     while not q.empty():
         gt = q.get()
         print(f'Get ->{gt}')
+
+    
+
